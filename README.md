@@ -29,7 +29,7 @@ Afspilleren og album details er dybe links fra henholdsvis albums og playlists/a
 ![alt text](https://github.com/rts-cmk-wuhf02/iPlayMusic/blob/master/navigation.png "navigation")
 
 ### Font, farve og ikoner:
-**Se styleguide:** https://github.com/rts-cmk-wuhf02/iPlayMusic/blob/master/styleguide.png
+**Se styleguide:** https://github.com/rts-cmk-wuhf02/iPlayMusic/blob/master/styleguide.png 
 **OBS:** Ikonerne er fra ionic frameworket som vi ikke arbejder med. Eksporter derfor ikoner fra XD eller integrer en anden ikon løsning ie. fontawesome eller ligende.
 
 ### Du skal bruge følgende i løsningen:
