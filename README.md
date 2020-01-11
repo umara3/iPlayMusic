@@ -25,6 +25,7 @@ Der er elementer på hjemmesiden som går igen på flere af siderne, dem skal du
 
 ### Navigation:
 Fra venstre: Albums, playlists, featured, farve tema, categories (find evt. et mere passende ikon)
+![alt text](https://github.com/rts-cmk-wuhf02/iPlayMusic/blob/master/navigation.png "navigation")
 
 
 ### Du skal bruge følgende i løsningen:
