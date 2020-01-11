@@ -15,7 +15,7 @@ Der er elementer på hjemmesiden som går igen på flere af siderne, dem skal du
 1. Featured (index) - *Præsenter featured albums. OBS: Dette view skal senere integrerer lazyload*
 2. Albums - *Præsentere featured albums og new releases(albums)*
 3. Categories - *liste alle kategorier*
-4. Artists - *liste traks for en artist*
+4. Artists - *liste traks for en enkelt artist (Evt. din favorit)*
 5. Playlister - *listes tracks fra en valgt playliste*
 6. Player - *"Afspil" et valgt track*
 
