@@ -11,12 +11,14 @@ Fokus er at omsætte designet til funktionel ```html/css/javascript```, ud fra d
 
 Der er elementer på hjemmesiden som går igen på flere af siderne, dem skal du trække ud i individuelle ```.ejs``` filer som ```templates``` der placeres i partials ```mappen``` og inkluderes efter behov. Udfordringen ligger i at splitte designet op i fornuftige og logiske dele, samt at gennemskue hvilke elementer der gentages på flere sider. Det vil også være ok at oprette templates for enkeltstående elementer.
 
-### Views som skal produceres:
+### Views som skal produceres: 
+*Navnene herunder: featured, albums etc. kan du bruge til at finde det rigtige view i Adobe XD filen*
+
 1. Featured (index) - *Præsenter featured albums. OBS: Dette view skal senere integrerer lazyload*
 2. Albums - *Præsentere featured albums og new releases(albums)*
-3. Album - *liste traks for et valgt album*
+3. Album Details - *liste traks for et valgt album*
 4. Categories - *liste alle kategorier*
-5. Playlister - *listes tracks fra en valgt playliste*
+5. Playlists - *listes tracks fra en valgt playliste*
 6. Player - *"Afspil" et valgt track*
 
 ### Du skal bruge følgende i løsningen:
