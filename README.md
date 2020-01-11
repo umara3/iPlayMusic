@@ -10,12 +10,12 @@ Fokus er at omsætte designet til funktionel ```html/css/javascript```, ud fra d
 Der er elementer på hjemmesiden som går igen på flere af siderne, dem skal du trække ud i individuelle ```.ejs``` filer som ```templates``` der placeres i partials ```mappen``` og inkluderes efter behov. Udfordringen ligger i at splitte designet op i fornuftige og logiske dele, samt at gennemskue hvilke elementer der gentages på flere sider. Det vil også være ok at oprette templates for enkeltstående elementer.
 
 ### Views som skal produceres:
-Featured (index) - Præsenter featured albums. OBS: Dette view skal senere integrerer lazyload
-Albums - Præsentere featured albums og new releases(albums)
-Categories - liste alle kategorier
-Artists - liste traks for en artist
-Playlister - listes tracks fra en valgt playliste
-Player - "Afspil" et valgt track
+1. Featured (index) - Præsenter featured albums. OBS: Dette view skal senere integrerer lazyload
+2. Albums - Præsentere featured albums og new releases(albums)
+3. Categories - liste alle kategorier
+4. Artists - liste traks for en artist
+5. Playlister - listes tracks fra en valgt playliste
+6. Player - "Afspil" et valgt track
 
 Opgaven er tiltænkt som en individuel opgave, men I må selvfølgelig gerne vende ideer og koncepter med hinanden.
 
