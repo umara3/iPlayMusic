@@ -14,8 +14,8 @@ Der er elementer på hjemmesiden som går igen på flere af siderne, dem skal du
 ### Views som skal produceres:
 1. Featured (index) - *Præsenter featured albums. OBS: Dette view skal senere integrerer lazyload*
 2. Albums - *Præsentere featured albums og new releases(albums)*
-3. Categories - *liste alle kategorier*
-4. Artists - *liste traks for en enkelt artist (Evt. din favorit)*
+3. Album - *liste traks for et valgt album*
+4. Categories - *liste alle kategorier*
 5. Playlister - *listes tracks fra en valgt playliste*
 6. Player - *"Afspil" et valgt track*
 
@@ -27,16 +27,3 @@ Der er elementer på hjemmesiden som går igen på flere af siderne, dem skal du
 
 # Tidsramme
 Der er afsat 1 arbejds uge til opgaven, dvs aflevering på fredag kl 13.30 (den sidste commit til github inden fredag kl 13.30, bliver afleveringen).
-
-# Del 2 - Animation
-I denne opgave skal vi arbejde med animationer. Animationer kan hjælpe en bruger til at forstå et layout, eller hvordan det er tiltænkte at brugeren skal interagerer med dette. Spørg dig selv, om en animation opfylder et formål for brugeren. Hvis det ikke gør det, er det sandsynligvis rent æstetisk.
-
-loaders
-
-### Forslag til mulige værktøjer:
-1. ```keyframes``` 
-2. ```anime.js```
-3. ```animate.css```
-
-# Tidsramme
-Der er afsat 1 arbejds uge til opgaven, dvs aflevering på fredag kl 13.30 (den sidste commit til github inden fredag kl 13.30, bliver afleveringen).                                                              
