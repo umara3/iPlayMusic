@@ -24,10 +24,11 @@ Der er elementer på hjemmesiden som går igen på flere af siderne, dem skal du
 6. Player - *"Afspil" et valgt track*
 
 ### Navigation:
-Fra venstre: Albums, playlists, featured, farve tema, categories (find evt. et mere passende ikon). Afspilleren og album details er dybe links fra henholdsvis albums og playlists/album.  
+Fra venstre: Albums, playlists, featured, farve tema, categories(find evt. et mere passende ikon). 
+Afspilleren og album details er dybe links fra henholdsvis albums og playlists/album.  
 ![alt text](https://github.com/rts-cmk-wuhf02/iPlayMusic/blob/master/navigation.png "navigation")
 
-### Ikoner:
+### Ikoner pakke:
 Er fra ionic frameworket som vi ikke arbejder med. Eksporter derfor ikoner fra XD eller integrer en anden ikon løsning ie. fontawesome eller ligende.
 
 ### Du skal bruge følgende i løsningen:
