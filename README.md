@@ -1,6 +1,8 @@
 # iPlayMusic
 
 Opgaven går ud på at opsætte et website der primært er mobiltvenligt, og er drevet af en simpel datastruktur.
+Opgaven er tiltænkt som en individuel opgave, men I må selvfølgelig gerne vende ideer og koncepter med hinanden.
+
 
 ![alt text](https://github.com/rts-cmk-wuhf02/iPlayMusic/blob/master/iplaymusic.png "iPlayMusic hero")
 
@@ -16,8 +18,6 @@ Der er elementer på hjemmesiden som går igen på flere af siderne, dem skal du
 4. Artists - *liste traks for en artist*
 5. Playlister - *listes tracks fra en valgt playliste*
 6. Player - *"Afspil" et valgt track*
-
-Opgaven er tiltænkt som en individuel opgave, men I må selvfølgelig gerne vende ideer og koncepter med hinanden.
 
 ### Løsningen skal inkluder følgende:
 1. ```ejs``` 
