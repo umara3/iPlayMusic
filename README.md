@@ -19,7 +19,7 @@ Der er elementer på hjemmesiden som går igen på flere af siderne, dem skal du
 5. Playlister - *listes tracks fra en valgt playliste*
 6. Player - *"Afspil" et valgt track*
 
-### Løsningen **skal** inkluder følgende:
+### Løsningen *skal* inkluder følgende:
 1. ```ejs``` 
 2. ```gulp```
 3. ```sass```
