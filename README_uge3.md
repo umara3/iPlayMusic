@@ -25,8 +25,8 @@ Anden del af opgaven består i at integrere animationer som har til hensigt at f
 > "Users tend to give up on loading times way faster when shown no or a static loading screen than an animated one.
 Layout Skeletons (...) seem to work very well, while spinners (...) are still better than nothing (...)" [Se artikel](https://dev.to/iamschulz/animation-for-developers-c4b?fbclid=IwAR2mYJQ-UwH07WPkPvcpJ5cSN8qIh06sDYzZEzhH2SjArGBOADP8EHUe95I) 
 
-**Læs artiklen** animation for developers, linket findes umiddelbart herover i ovenstående blockquote. I artiklen er der flere konkrete eksempler på UI animaiton som én til én kan overføres til iPlayMusic applikationen. 
+**Læs artiklen** animation for developers, linket findes i ovenstående blockquote. I artiklen er der flere konkrete eksempler på UI animaiton som én til én kan overføres til iPlayMusic applikationen. 
 
-Rammerne er frie, så eneste krav er spinneren. Slå jer løs, men vær opmærksom at der helst i forhold til brugeren skal være et klart formål med animationen.
+Rammerne er frie, eneste **krav** er spinneren! Slå jer løs, men vær opmærksom at der i forhold til brugeren skal være et klart formål med animationen.
 
 God arbejdslyst!
