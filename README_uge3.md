@@ -27,10 +27,10 @@ Layout Skeletons (...) seem to work very well, while spinners (...) are still be
 
 **Læs artiklen** animation for developers, linket findes i ovenstående blockquote. I artiklen er der flere konkrete eksempler på UI animaiton som én til én kan overføres til iPlayMusic applikationen. 
 
-**I har tidligere brugt følgende til at lave animationer:**
+## I har tidligere brugt følgende til at lave animationer 
 1. [Anime.js](https://animejs.com/)
 2. [Animate.css](https://daneden.github.io/animate.css/)
-3. Keyframes 
+3. Keyframes CSS
 
 Rammerne er frie, eneste **krav** er spinneren! Slå jer løs, men vær opmærksom at der i forhold til brugeren skal være et klart formål med animationen. Jeg glæder mig til at se hvad i kommer op med.
 
