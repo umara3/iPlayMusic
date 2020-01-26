@@ -4,7 +4,7 @@ Tredje del af projektet handler om at få afspilleren til at fungere og at anime
 
 ![alt text](https://github.com/rts-cmk-wuhf02/iPlayMusic/blob/master/animation.gif "Animate UI")
 
-Afspilleren:
+**Afspilleren:**
 Den første opgave i uge 3. omhandler at få afspilleren til at fungere.
 
 Desværre kræver det et Spotify premium abonnement at få adgang til musikken, så det er ikke en mulighed. I denne opgave handler det om konceptet, ikke at kunne finde og afspille de korrekte musik numre. 
