@@ -27,6 +27,6 @@ Layout Skeletons (...) seem to work very well, while spinners (...) are still be
 
 **Læs artiklen** animation for developers, linket findes i ovenstående blockquote. I artiklen er der flere konkrete eksempler på UI animaiton som én til én kan overføres til iPlayMusic applikationen. 
 
-Rammerne er frie, eneste **krav** er spinneren! Slå jer løs, men vær opmærksom at der i forhold til brugeren skal være et klart formål med animationen.
+Rammerne er frie, eneste **krav** er spinneren! Slå jer løs, men vær opmærksom at der i forhold til brugeren skal være et klart formål med animationen. Jeg glæder mig til at se hvad i kommer op med.
 
 God arbejdslyst!
