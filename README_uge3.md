@@ -5,7 +5,7 @@ Tredje del af projektet handler om at få afspilleren til at fungere og at anime
 ![alt text](https://github.com/rts-cmk-wuhf02/iPlayMusic/blob/master/animation.gif "Animate UI")
 
 **Afspilleren:**
-Den første opgave i uge 3. omhandler at få afspilleren til at fungere.
+Den første opgave i uge 3. omhandler at få afspilleren. Brugeren kan navigere hen til dette view ved at trykke på et track i en 'track-liste'. Titel, kunstner og medier på afspiller siden skal matche det track brugeren "har valgt at lytte til" i.e. trykket på. 
 
 Desværre kræver det et Spotify premium abonnement at få adgang til musikken, så det er ikke en mulighed. I denne opgave handler det om konceptet, ikke at kunne finde og afspille de korrekte musik numre. 
 
@@ -13,7 +13,7 @@ Desværre kræver det et Spotify premium abonnement at få adgang til musikken, 
 
 Play funktionaliteten skal derfor ganske enkelt bare afspille et stykke 'demo-musik' når der trykke play. Det kræver nogle musik filer som kan afspilles, der kan man f.eks. hente noget musik herfra [Incompetech.com](https://incompetech.com/music/) 
 
-Når du har fundet lidt musik skal `<audio>` tagget implementeres på afspiller siden, og der skal skrives lidt kode som får afspilleren til at fungere, samt sikre den bliver stylet som på designet. Hvis du aldrig har prøvet at arbejde med et `<audio>` tag, så er her et par resorser som kan få dig godt fra start:
+Når du har fundet lidt musik skal `<audio>` tagget e.l. implementeres på afspiller siden, og der skal skrives lidt kode som får afspilleren til at fungere, samt sikre den bliver stylet som på designet. Hvis du aldrig har prøvet at arbejde med et `<audio>` tag, så er her et par resorser som kan få dig godt fra start:
 
 [HTML5 audio](https://www.w3schools.com/html/html5_audio.asp)
 
