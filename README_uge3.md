@@ -20,7 +20,7 @@ Når du har fundet lidt musik skal `<audio>` tagget e.l. implementeres på afspi
 [Audio Object](https://www.w3schools.com/jsref/dom_obj_audio.asp)
 
 # UI Animation
-Anden del af opgaven består i at integrere animationer som har til hensigt formidle et vigtigt budskab til brugeren e.g. indhold er ved at blive indlæst. 
+Anden del af opgaven består i at integrere animationer som har til hensigt at formidle et vigtigt budskab til brugeren e.g. indhold er ved at blive indlæst. En "opgave" I tidligere har løst ved at animere en lille spinner, som så er blevet vist så længe indhold endnu ikke er indlæst.)
 
 > "Users tend to give up on loading times way faster when shown no or a static loading screen than an animated one.
 Layout Skeletons (...) seem to work very well, while spinners (...) are still better than nothing (...)" [Se artikel](https://dev.to/iamschulz/animation-for-developers-c4b?fbclid=IwAR2mYJQ-UwH07WPkPvcpJ5cSN8qIh06sDYzZEzhH2SjArGBOADP8EHUe95I) 
