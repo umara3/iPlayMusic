@@ -4,8 +4,8 @@ Tredje del af projektet handler om at få afspilleren til at fungere og at anime
 
 ![alt text](https://github.com/rts-cmk-wuhf02/iPlayMusic/blob/master/animation.gif "Animate UI")
 
-**Afspilleren:**
-Den første opgave i uge 3. omhandler at få afspilleren. Brugeren kan navigere hen til dette view ved at trykke på et track i en 'track-liste'. Titel, kunstner og medier på afspiller siden skal matche det track brugeren "har valgt at lytte til" i.e. trykket på. 
+# Afspilleren
+Den første opgave i uge 3. omhandler afspilleren. Brugeren kan navigere hen til dette afspiller viewet ved at trykke på et track i en 'track-liste'. Titel, kunstner og medier på afspiller siden skal matche det track brugeren "har valgt at lytte til" i.e. trykket på. 
 
 Desværre kræver det et Spotify premium abonnement at få adgang til musikken, så det er ikke en mulighed. I denne opgave handler det om konceptet, ikke at kunne finde og afspille de korrekte musik numre. 
 
@@ -18,4 +18,7 @@ Når du har fundet lidt musik skal `<audio>` tagget e.l. implementeres på afspi
 [HTML5 audio](https://www.w3schools.com/html/html5_audio.asp)
 
 [Audio Object](https://www.w3schools.com/jsref/dom_obj_audio.asp)
+
+# UI Animation
+Anden del af opgaven omhandler UI animationer.
 
