@@ -35,3 +35,8 @@ Layout Skeletons (...) seem to work very well, while spinners (...) are still be
 Rammerne er frie, eneste **krav** er spinneren! Slå jer løs, men vær opmærksom at der i forhold til brugeren skal være et klart formål med animationen. Jeg glæder mig til at se hvad i kommer op med.
 
 God arbejdslyst!
+
+---
+
+## Tidsramme
+Der er afsat 4 arbejdsdage til opgaven, dvs aflevering på torsdag kl 15.10 (den sidste commit til github inden torsdag kl 15:10, bliver afleveringen).
