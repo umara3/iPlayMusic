@@ -7,7 +7,7 @@ Opgaven er tiltænkt som en **individuel opgave**, men I må selvfølgelig gerne
 ![alt text](https://github.com/rts-cmk-wuhf02/iPlayMusic/blob/master/iplaymusic.png "iPlayMusic hero")
 
 # Del 1 - Layout
-Fokus er at omsætte designet til funktionel ```html/css/javascript```, ud fra det ud har lært ind til videre. Designet skal følges så tæt som muligt, og fungere på kryds og tværs af flere mobil-skærmstørrelser. Det skal være muligt at skifte mellem lyst og mørkt tema men det er **ikke** et krav adressebaren er skjult som i en native app.
+Fokus er at omsætte designet til funktionel ```html/css/javascript```, ud fra det ud har lært ind til videre. Designet skal følges så tæt som muligt, og fungere på kryds og tværs af flere mobil-skærmstørrelser. Det skal være muligt at skifte mellem lyst og mørkt tema men det er **ikke** et krav at adressebaren er skjult som i en native app.
 
 Der er elementer på hjemmesiden som går igen på flere af siderne, dem skal du trække ud i individuelle ```.ejs``` filer som ```templates``` der placeres i partials ```mappen``` og inkluderes efter behov. Udfordringen ligger i at splitte designet op i fornuftige og logiske dele, samt at gennemskue hvilke elementer der gentages på flere sider. Det vil også være ok at oprette templates for enkeltstående elementer.
 
