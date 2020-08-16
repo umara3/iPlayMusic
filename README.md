@@ -4,7 +4,7 @@ Opgaven går ud på at opsætte et website der primært er mobiltvenligt, og er 
 Opgaven er tiltænkt som en **individuel opgave**, men I må selvfølgelig gerne vende ideer og koncepter med hinanden.
 
 
-![alt text](https://github.com/rts-cmk-wuhf02/iPlayMusic/blob/master/iplaymusic.png "iPlayMusic hero")
+![alt text](https://github.com/rts-cmk-opgaver/iPlayMusic/blob/master/iplaymusic.png "iPlayMusic hero")
 
 # Del 1 - Layout
 Fokus er at omsætte designet til funktionel ```html/css/javascript```, ud fra det ud har lært ind til videre. Designet skal følges så tæt som muligt, og fungere på kryds og tværs af flere mobil-skærmstørrelser. Det skal være muligt at skifte mellem lyst og mørkt tema men det er **ikke** et krav at adressebaren er skjult som i en native app.
