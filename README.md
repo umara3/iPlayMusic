@@ -16,7 +16,7 @@ Der er elementer på hjemmesiden som går igen på flere af siderne, dem skal du
 ### Views som skal produceres: 
 *Navnene herunder: featured, albums etc. kan du bruge til at finde det rigtige view i Adobe XD filen. Er du itvivl så spørg!*
 
-1. Featured (index) - *Præsenter featured albums. **OBS:** Dette view skal senere integrerer lazyload*
+1. Featured (index) - *Præsenter featured albums. **OBS:** Dette view skal senere integrere lazyload*
 2. Albums - *Præsentere featured albums og new releases(albums)*
 3. Album Details - *liste traks for et valgt album*
 4. Categories - *liste alle kategorier*
@@ -37,6 +37,9 @@ Afspilleren og album details er dybe links fra henholdsvis albums og playlists/a
 2. ```ejs``` 
 3. ```sass```
       * ```variabler```
+      
+### Hvis du har ekstra tid
+Hvis du har ekstra tid sidst på ugen, kan du kode start-skærmen og login skærmen. 
 
 # Tidsramme
 Der er afsat 1 arbejds uge til opgaven, dvs aflevering på fredag kl 13.30 (den sidste commit til github inden fredag kl 13.30, bliver afleveringen).
