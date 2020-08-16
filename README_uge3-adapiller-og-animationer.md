@@ -39,4 +39,6 @@ God arbejdslyst!
 ---
 
 ## Tidsramme
-Der er afsat 4 arbejdsdage til opgaven, dvs aflevering på torsdag kl 15.10 (den sidste commit til github inden torsdag kl 15:10, bliver afleveringen).
+Der er afsat 4 arbejdsdage til opgaven, dvs aflevering om torsdagen i den sidste projektuge, senest kl 15.10 (den sidste commit til github inden torsdag kl 15:10, bliver afleveringen). 
+
+Den sidste dag i projektperioden er afsat til "product release" på de to produkter som er produceret i perioden.
