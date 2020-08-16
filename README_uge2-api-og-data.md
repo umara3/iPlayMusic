@@ -31,9 +31,6 @@ Titler på numre må ikke ombryde i to linier. Benyt ```text overflow``` eller l
 
 forespørg data fra search endpointet vedrørende artister, alubms, numre eller playlists som matcher en ```keyword string```. Præsenter resultaterne på en smart overskugelig måde i viewet "songs". Læs de guidelines som er beskrevet i afsnittet *"Writing a Query - guidelines"* i dokumentationen for search endpointet.
 
-## Du skal bruge følgende i løsningen:
-
-fetch-wrapper (Jeres eget ```npm``` modul)
 
 ## Husk den gode arbejdsgang
 1. Stage løbende
@@ -43,4 +40,4 @@ fetch-wrapper (Jeres eget ```npm``` modul)
 ---
 
 ## Tidsramme
-Der er afsat 1 arbejds uge til opgaven, dvs aflevering på fredag kl 13.30 (den sidste commit til github inden fredag kl 13.30, bliver afleveringen).
+Der er afsat 1 arbejds uge til opgaven, dvs aflevering fredag i den anden projekt-uge kl 13.30 (den sidste commit til github inden fredag kl 13.30, bliver afleveringen).
