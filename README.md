@@ -7,9 +7,9 @@ Opgaven er tiltænkt som en **individuel opgave**, men I må selvfølgelig gerne
 ![alt text](https://github.com/rts-cmk-opgaver/iPlayMusic/blob/master/iplaymusic.png "iPlayMusic hero")
 
 # Del 1 - Layout
-Fokus er at omsætte designet til funktionel ```html/css/javascript```, ud fra det ud har lært ind til videre. Designet skal følges så tæt som muligt, og fungere på kryds og tværs af flere mobil-skærmstørrelser. Det skal være muligt at skifte mellem lyst og mørkt tema men det er **ikke** et krav at adressebaren er skjult som i en native app.
+Fokus er at omsætte designet til en funktionel ```React applikation```, ud fra det ud har lært ind til videre. Designet skal følges så tæt som muligt, og fungere på kryds og tværs af flere mobil-skærmstørrelser. Det skal være muligt at skifte mellem lyst og mørkt tema men det er **ikke** et krav at adressebaren er skjult som i en native app.
 
-Der er elementer på hjemmesiden som går igen på flere af siderne, dem skal du trække ud i individuelle ```.ejs``` filer som ```templates``` der placeres i partials ```mappen``` og inkluderes efter behov. Udfordringen ligger i at splitte designet op i fornuftige og logiske dele, samt at gennemskue hvilke elementer der gentages på flere sider. Det vil også være ok at oprette templates for enkeltstående elementer.
+Der er elementer på hjemmesiden som går igen på flere af siderne, dem skal du trække ud i individuelle ```react komponenter``` og inkludere dem efter behov. Udfordringen ligger i at splitte designet op i fornuftige og logiske dele, samt at gennemskue hvilke elementer der gentages på flere sider. Det vil også være ok at oprette templates for enkeltstående elementer.
 
 
 
@@ -30,7 +30,7 @@ Afspilleren og album details er dybe links fra henholdsvis albums og playlists/a
 
 ### Font, farve og ikoner:
 **Se styleguide:** https://github.com/rts-cmk-wuhf02/iPlayMusic/blob/master/styleguide.png 
-**OBS:** Ikonerne er fra ionic frameworket som vi ikke arbejder med. Eksporter derfor ikoner fra XD eller integrer en anden ikon løsning ie. font-awesome eller ligende.
+**OBS:** Ikonerne er fra ionic frameworket. De kan importeres igennem ```react-icons```` komponentet, eller hvordan du nu måtte foretrække.
 
 ### Du skal bruge følgende i løsningen:
 1. ```gulp```
@@ -39,7 +39,7 @@ Afspilleren og album details er dybe links fra henholdsvis albums og playlists/a
       * ```variabler```
       
 ### Hvis du har ekstra tid
-Hvis du har ekstra tid sidst på ugen, kan du kode start-skærmen og login skærmen. 
+Hvis du har ekstra tid i slutningen af ugen, kan du tilføje splash-skærmen og walk-through delen. 
 
 # Tidsramme
-Der er afsat 1 arbejds uge til opgaven, dvs aflevering på fredag kl 13.30 (den sidste commit til github inden fredag kl 13.30, bliver afleveringen).
+Der er afsat 1 arbejds uge til layout-delen, dvs aflevering på fredag kl 13.30 (den sidste commit til github inden fredag kl 13.30, bliver afleveringen).
