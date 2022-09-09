@@ -40,4 +40,4 @@ forespørg data fra search endpointet vedrørende artister, alubms, numre eller 
 ---
 
 ## Tidsramme
-Der er afsat 1 arbejds uge til opgaven, dvs aflevering fredag i den anden projekt-uge kl 13.30 (den sidste commit til github inden fredag kl 13.30, bliver afleveringen).
+Der er afsat 2 arbejds uger til opgaven, dvs aflevering fredag i den tredje projekt-uge kl 13.30 (den sidste commit til github inden fredag kl 13.30, bliver afleveringen).
