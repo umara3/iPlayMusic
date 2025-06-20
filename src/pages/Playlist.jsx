@@ -37,15 +37,11 @@ function Playlist() {
 }
 
 const styles = {
-  body:{
-  margin: "0 auto",
-  padding: "0",
-  fontFamily: "Arial, sans-serif",
-},
+  
   container: {
-    width: "375px",
-    padding: "10px",
-   /* backgroundColor: "#fff",*/
+    margin: "0 auto",
+  padding: "2em 2em",
+  width: "450px",
   },
   background: {
     backgroundImage: `url(${bgImage})`,
@@ -81,6 +77,7 @@ const styles = {
     fontSize: "18px",
     cursor: "pointer",
     marginTop: "20px",
+    marginBottom: "4em",
   },
 };
 

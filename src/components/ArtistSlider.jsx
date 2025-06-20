@@ -1,39 +1,24 @@
 
-/*function ArtistSlider() {
-  const artists = ["artist1.jpg", "artist2.jpg", "artist3.jpg"];
 
-  return (
-    <div style={styles.slider}>
-      {artists.map((artist, index) => (
-        <img key={index} src={`${artist}`} alt="Artist" style={styles.image} />
-      ))}
-    </div>
-  );
-}
-
-const styles = {
-  slider: {
-    display: "flex",
-    overflowX: "scroll",
-    gap: "10px",
-  },
-  image: {
-    width: "100px",
-    height: "100px",
-    borderRadius: "50%",
-  },
-};
-
-export default ArtistSlider;*/
 
 
 function ArtistSlider() {
-  const artists = ["/artist1.png", "/artist2.jpg", "/artist3.jpg"]; 
+  const artists = ["./artist1.png", "./artist1.png", "./artist1.png"]; 
+  const centerIndex = Math.floor(artists.length / 2); // Gets center image dynamically
 
   return (
     <div style={styles.slider}>
       {artists.map((artist, index) => (
-        <img key={index} src={artist} alt="Artist" style={styles.image} />
+        <img 
+          key={index} 
+          src={artist} 
+          alt="Artist"
+          style={{
+            ...styles.image,
+            transform: index === centerIndex ? "scale(1.3)" : "scale(0.9)", // Center bigger, sides smaller
+            opacity: index === centerIndex ? "1" : "0.7", // Faded effect for side images
+          }}
+        />
       ))}
     </div>
   );
@@ -42,17 +27,18 @@ function ArtistSlider() {
 const styles = {
   slider: {
     display: "flex",
-    overflowX: "auto", 
+    overflowX: "auto",
     gap: "10px",
     padding: "10px",
-    scrollbarWidth: "none", 
-    
+    scrollbarWidth: "none",
+    justifyContent: "center", // Center alignment
+    alignItems: "center",
   },
   image: {
     width: "100px",
     height: "100px",
-    
-    objectFit: "cover", 
+    objectFit: "cover",
+    transition: "transform 0.3s ease, opacity 0.3s ease", // Smooth effect
   },
 };
 
@@ -66,4 +52,5 @@ styleTag.innerHTML = `
 document.head.appendChild(styleTag);
 
 export default ArtistSlider;
+
 

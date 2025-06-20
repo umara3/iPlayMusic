@@ -7,6 +7,8 @@ const featuredMovies = [
   { id: 2, image: "/featured2.jpg", title: "La La Land", category: "Soundtrack" }
 ];
 
+ 
+
 function Featured() {
   return (
     <>
@@ -28,24 +30,20 @@ function Featured() {
           </div>
         ))}
       </div>
+       
     </div>
-    
+   
     </>
   );
 }
 
 const styles = {
-   /*  body:{
- margin: "0 auto",
-  padding: "2em 2em",
-  fontFamily: "Arial, sans-serif",
-  withth: "100%",
-},*/
+   
   container: {
     margin: "0 auto",
   padding: "2em 2em",
   width: "450px",
-  
+  boxShadow: "0px -5px 10px rgba(128, 128, 128, 0.3)"
   },
   heading: {
     textAlign: "left",
@@ -65,13 +63,16 @@ const styles = {
   paddingBottom: "10px",
   scrollbarWidth: "none",
   whiteSpace: "nowrap", 
+  
 },
 
   movieCard: {
     position: "relative",
-    minWidth: "250px",
+   minWidth: "250px",
     borderRadius: "10px",
     overflow: "hidden",
+   /* width: "325px",
+  height: "425px",*/
   },
   image: {
     width: "100%",

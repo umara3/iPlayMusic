@@ -12,7 +12,7 @@ const styles = {
     height: "60px",
     padding: "10px",
     /*backgroundColor: "#fff",*/
-    borderBottom: "1px solid #ccc",
+    
     position: "relative", // Helps center title
 
   },
@@ -31,6 +31,7 @@ const styles = {
   searchButton: {
     fontSize: "24px",
     cursor: "pointer",
+    padding: "0 18px",
   },
 };
 
